@@ -1,6 +1,7 @@
-## Your Name
+## Abi Travers
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
+
 
 ## Skills
 
@@ -32,13 +33,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Manchester University (September 2008 - September 2012)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+**International Development MA - Merit**
 
-#### Any other qualifications
+- Focused on how to save the world.
+- Worked for the Ugandan government, where I delivered a project on local tax reform.
+- Development economic modeling module (Distinction).
+
+**Geography BSc - 2:1**
+
+- Focused more on saving the planet rather than the people in it.  
+- Global systems analysis.
+- Environmental economic analysis (First).
+
+#### Calday Grange Grammar School
+
+- Proof that dyslexia doesn't hold one back..
+**A Levels**
+
+- A, A, B (A at As Level) Chemistry, History, Geography, Biology  
+**GCSEs**
+
+- 6 A*'s' Including Mathematics, Physics, ICT, Chemistry
+- 4 A's
 
 ## Experience
 
