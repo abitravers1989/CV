@@ -75,18 +75,19 @@ I have a proven ability to effectively communicate with all-types of people:
 - Environmental economic analysis (First).
 
 
-### Calday Grange Grammar School West Kirby Grammar School (September 2000 - July 2007) ###
+### Calday Grange Grammar School  & West Kirby Grammar School (September 2000 - July 2007) ###
 
 Despite the fact the 11+ disadvantages dyslexics like myself, I managed, with 'only' 2 solid years of practice to pass.
 
 
 **A Levels**
 
-A, A, B (A at As Level) Chemistry, History, Geography, Biology  
+A, A, B (A at As Level) Including: Chemistry, History, Geography, Biology  
 
 **GCSEs**
 
-6 A*'s' Including Mathematics, Physics, ICT, Chemistry
+6 A*'s' Including: Mathematics, Physics, ICT, Chemistry
+
 4 A's
 
 ## Recent Experience ##
