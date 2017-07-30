@@ -13,7 +13,8 @@ As someone who is intrinsically motivated, I am happiest when I am facing a chal
 
 ## Skills ##
 
-#### Fast self-taught leaner who thrives under pressure ####
+#### Fast Self-taught Leaner Who Thrives Under Pressure ####
+
 A tenacious ability to teach myself new skills quickly and apply them while under pressure:
 
 Inspitrip:
@@ -26,7 +27,9 @@ Inspitrip:
 - Implemented lean start-up methodology which based on rapid experimentation followed by careful analysis in order to inform the steps to take next. This covered both the product itself and its growth marketing.
 
 
-#### Excellent communicator ####
+
+
+#### Excellent Communicator ####
 
 I have a proven ability to effectively communicate with all-types of people:
 
@@ -108,7 +111,7 @@ Project managed many multi-million pound projects consistently delivering at lea
 ## Hobbies and Interests ##
 - **Cycling** I regularly cycle over 100 miles at weekends. Despite being knocked off by a motorbike, which resulted in 6 month in a back-brace, I have continued to cycle most days.
 - **Yoga** I have trained in Vinyasa but am also a Yin enthusiast.
-- **Photography** At the height of my business [Instagram account] (https://www.instagram.com/lebrun_black/) had 14k real followers and was achieving an engagement rate of 25-30% which is 21-26% above industry standard. Featured at the Official Vietnamese Tourism launch and in the Singaporian Magazine, Project Periscope.
+- **Photography** At it's height my business [Instagram](https://www.instagram.com/lebrun_black/) account had over 14k real followers and was achieving an engagement rate of 25-30% which is 21-26% above industry standard. It was featured at the Official Vietnamese Tourism launch and in the Singaporian Magazine, Project Periscope.
 - **You will find me at the gym EVERY morning** before work … even when I was still recovering from my accident in a back brace in sweltering humidity of Vietnam.
 - **Tech Start-ups** Attended and presented at conferences in Vietnam and Indonesia including the founder’s meetup in Vietnam. 
 - **Exploring** Visited over 60 countries and worked in Uganda, Vietnam and Indonesia. Not one for following the usual path, next on my list is visiting the cliff villages of Ethiopia.  
