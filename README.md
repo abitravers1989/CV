@@ -107,16 +107,19 @@ Write about learning software development on the website: Lebrunblack.com.
 
 **Growth Hacking Asia** (Jan - May 2017)   
 *Growth Marketing Consultant (Indonesia)*
+
 Consulted on and implemented the application of scientific methodology to growth marketing.
 
 
 **Inspitrip & Inspilab** (May 2016 - Jan 2017)   
 *Growth Hacker (Vietnam)*  
+
 Progressed from marketing intern to leading the Growth of Inspitrip, a Tech start-up.
 
 
 **UK Power Networks** (Sept 2014 – April 2016 )   
 *Commercial Analyst, & Commercial Graduate Leadership Scheme (London)*  
+
 Project managed many multi-million pound projects consistently delivering at least 7% reduction in costs. This included analysing and drawing sound conclusions from large cost datasets. Took the initiative to develop processes which are still in place for over 5 multi-million contracts.
 
 
