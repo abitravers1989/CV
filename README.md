@@ -106,6 +106,7 @@ Write about learning software development on the website: Lebrunblack.com.
 
 **Growth Hacking Asia** (Jan - May 2017)   
 *Growth Marketing Consultant (Indonesia)*
+
 Consulted on and implemented the application of scientific methodology to growth marketing.
 
 
