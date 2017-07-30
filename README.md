@@ -18,13 +18,13 @@ As someone who is intrinsically motivated, I am happiest when I am facing a chal
 A tenacious ability to teach myself new skills quickly and apply them while under pressure:
 
 Inspitrip:
-- Turned this start-up around from 0-2 new customers per month to 9-10 per month while securing an investment of $100,000 for a 10% stake.
+- Turned this start-up around from 0-2 customers per month to 5-7. This secured an investment of $100,000 for a 10% stake in the product.
 
 - Arrived in Vietnam with no contacts or experience in marketing. Secured a position within 2 weeks then progressed to leading the growth of the company.
 
-- To close my skill gap, I taught myself marketing then created the growth strategy (which was later used to secure the investment). Helped put together the marketing team. Created business processes and managed other team members despite having no prior experience.
+- To close my skill gap, I taught myself marketing then created the growth strategy (which was later used to secure the investment). Helped put together the marketing team & create business processes. I managed other team members. I did all of this with no prior experience.
 
-- Implemented lean start-up methodology which based on rapid experimentation followed by careful analysis in order to inform the steps to take next. This covered both the product itself and its growth marketing.
+- Implemented lean start-up methodology; rapid experimentation followed by careful analysis to inform the next steps. This was used for both the product and growth marketing of it.
 
 
 
@@ -36,15 +36,15 @@ I have a proven ability to effectively communicate with all-types of people:
 
 - At the Energy Institute I worked directly with ex CEOs, CTOs and C-suit management of large oil and gas companies (including BP and Exxon) to assemble co-written papers to influence government policies.
 
-- At UK Power Networks I worked with internal C-suite management and contracting companies (such as Morgan Sindall, ABA) to negotiate significant cost savings e.g. I reduced a £12m project to £7.8m.
+- At UK Power Networks I worked with internal C-suite management and contracting companies (such as Morgan Sindall, ABA) to negotiate significant cost savings. For example I reduced a £12m project to £7.8m.
 
-- My greatest achievement was persuading the CEO, despite a pay and hire freeze, to offer Master’s degree courses to other graduates to support enhanced development.  
+- My greatest achievement was persuading the CEO, despite a pay and hire freeze, to offer Master’s degree courses to other graduates to support their enhanced development.  
 
 - I was the only English speaker and non-developer while leading the growth at a Vietnamese startup.
 
 ## Additional Skills & Qualifications ##
 
-- Photoshop and Illustrate (self-taught). Used to create adverts and landing pages for many clients while at Growth Hacking Asia and for Lebrun Black consulting.
+- Photoshop and Illustrate (self-taught). Used to create adverts and landing pages for many clients while at Growth Hacking Asia and Lebrun Black consulting.
 
 - Prince 2 Project Management – Practitioner Award.
 
