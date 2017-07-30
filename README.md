@@ -8,12 +8,12 @@ Like Dr Seuss, I am creative and analytical, I think differently to solve any co
 I am a soon-to-be full stack developer looking to enhance the skills I developed at Makers Academy (a 12 week intensive development boot camp). I write about how I am learning and what I am struggling with [here](http://lebrunblack.com/), in the hope that this will help others. My initial interest is in security and software systems. I hope to bring a unique perspective to this area, whilst coaching others who are less experienced.
  
 
-As someone who is intrinsically motivated, I am happiest when I am facing a challenge. I continuously take on tasks above my skill set which is why I am drawn to coding, as there is always more to learn. I found my interest for software and web development initially through my work as a growth hacker for Tech startups while living in Vietnam and Indonesia.
+As someone who is intrinsically motivated, I am happiest when I am facing a challenge. I continuously take on tasks above my skill set which is why I am drawn to coding, where there is always more to learn. I found my interest for software and web development initially through my work as a growth hacker for Tech startups while living in Vietnam and Indonesia.
  
 
 ## Skills ##
 
-#### Fast Self-taught Leaner Who Thrives Under Pressure ####
+#### Fast Self-Taught Leaner Who Thrives Under Pressure ####
 
 A tenacious ability to teach myself new skills quickly and apply them while under pressure:
 
@@ -113,6 +113,6 @@ Project managed many multi-million pound projects consistently delivering at lea
 - **Cycling** I regularly cycle over 100 miles at weekends. Despite being knocked off by a motorbike, which resulted in 6 month in a back-brace, I have continued to cycle most days.
 - **Yoga** I have trained in Vinyasa but am also a Yin enthusiast.
 - **Photography** At it's height my business [Instagram](https://www.instagram.com/lebrun_black/) account had over 14k real followers and was achieving an engagement rate of 25-30% which is 21-26% above industry standard. It was featured at the Official Vietnamese Tourism launch and in the Singaporian Magazine, Project Periscope.
-- **You will find me at the gym EVERY morning** before work … even when I was still recovering from my accident in a back brace in sweltering humidity of Vietnam.
+- **You will find me at the gym EVERY morning** before work … even when I was still recovering from my accident in a back brace in the sweltering humidity of Vietnam.
 - **Tech Start-ups** Attended and presented at conferences in Vietnam and Indonesia including the founder’s meetup in Vietnam. 
 - **Exploring** Visited over 60 countries and worked in Uganda, Vietnam and Indonesia. Not one for following the usual path, next on my list is visiting the cliff villages of Ethiopia.  
