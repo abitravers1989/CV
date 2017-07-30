@@ -38,7 +38,7 @@ I have a proven ability to effectively communicate with all-types of people:
 
 - I was the only English speaker and non-developer while leading the growth at a Vietnamese startup.
 
-### Additional Skills & qualifications ###
+## Additional Skills & Qualifications ##
 
 - Photoshop and Illustrate (self-taught). Used to create adverts and landing pages for many clients while at Growth Hacking Asia and for Lebrun Black consulting.
 
@@ -48,7 +48,7 @@ I have a proven ability to effectively communicate with all-types of people:
 
 ## Education ##
 
-#### Makers Academy (start_date to end_date) ####
+### Makers Academy (July - October 2017) ###
 
 - Curiosity and passion for code
 - Independent learner and problem-solver
@@ -57,7 +57,7 @@ I have a proven ability to effectively communicate with all-types of people:
 - Ruby, Rails, JavaScript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Manchester University (September 2008 - September 2012) ####
+### Manchester University (September 2008 - September 2012) ###
 
 **International Development MA - Merit**
 
@@ -70,7 +70,8 @@ I have a proven ability to effectively communicate with all-types of people:
 - Focused more on saving the planet rather than the people in it.  
 - Environmental economic analysis (First).
 
-#### Calday Grange Grammar School West Kirby Grammar School ####
+
+### Calday Grange Grammar School West Kirby Grammar School ###
 
 Despite the fact the 11+ disadvantages dyslexics like myself, I managed, with 'only' 2 solid years of practice to pass.
 
@@ -84,7 +85,7 @@ Despite the fact the 11+ disadvantages dyslexics like myself, I managed, with 'o
 - 6 A*'s' Including Mathematics, Physics, ICT, Chemistry
 - 4 A's
 
-## Experience ##
+## Recent Experience ##
 
 **LeBrun Black** (May 2017 - Present)    
 *Founder & Blog Editor*
