@@ -100,13 +100,13 @@ A, A, B (A at As Level) Including: Chemistry, History, Geography, Biology
 
 **LeBrun Black** (May 2017 - Present)    
 *Founder & Blog Editor*
+
 A/B tested and analysed everything down to single words for paid social media marketing and email marketing. This directly led to at least 3 contracts worth over £3K for a client.
 Write about learning software development on the website: Lebrunblack.com.
 
 
 **Growth Hacking Asia** (Jan - May 2017)   
 *Growth Marketing Consultant (Indonesia)*
-
 Consulted on and implemented the application of scientific methodology to growth marketing.
 
 
