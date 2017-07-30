@@ -9,7 +9,8 @@ I am a soon-to-be full stack developer looking to enhance the skills I developed
  
 
 As someone who is intrinsically motivated, I am happiest when I am facing a challenge. I continuously take on tasks above my skill set which is why I am drawn to coding, where there is always more to learn. I found my interest for software and web development initially through my work as a growth hacker for Tech startups while living in Vietnam and Indonesia.
- 
+
+
 
 ## Skills ##
 
@@ -42,6 +43,7 @@ I have a proven ability to effectively communicate with all-types of people:
 
 - I was the only English speaker and non-developer while leading the growth at a Vietnamese startup.
 
+
 ## Additional Skills & Qualifications ##
 
 - Photoshop and Illustrate (self-taught). Used to create adverts and landing pages for many clients while at Growth Hacking Asia and Lebrun Black consulting.
@@ -52,6 +54,7 @@ I have a proven ability to effectively communicate with all-types of people:
 
 ## Education ##
 
+
 ### Makers Academy (July - October 2017) ###
 
 - Curiosity and passion for code
@@ -60,6 +63,7 @@ I have a proven ability to effectively communicate with all-types of people:
 - Software Craftsmanship
 - Ruby, Rails, JavaScript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
+
 
 ### Manchester University (September 2008 - September 2012) ###
 
@@ -73,6 +77,7 @@ I have a proven ability to effectively communicate with all-types of people:
 
 - Focused more on saving the planet rather than the people in it.  
 - Environmental economic analysis (First).
+
 
 
 ### Calday Grange Grammar School  & West Kirby Grammar School (September 2000 - July 2007) ###
@@ -90,24 +95,30 @@ A, A, B (A at As Level) Including: Chemistry, History, Geography, Biology
 
 4 A's
 
+
 ## Recent Experience ##
 
 **LeBrun Black** (May 2017 - Present)    
 *Founder & Blog Editor*
+
 A/B tested and analysed everything down to single words for paid social media marketing and email marketing. This directly led to at least 3 contracts worth over £3K for a client.
 Write about learning software development on the website: Lebrunblack.com.
 
 **Growth Hacking Asia** (Jan - May 2017)   
-*Growth Marketing Consultant*  Based in Indonesia
+*Growth Marketing Consultant (Indonesia)*
+
 Consulted on and implemented the application of scientific methodology to growth marketing.
 
 **Inspitrip & Inspilab** (May 2016 - Jan 2017)   
-*Growth Hacker*  
+*Growth Hacker (Vietnam)*  
+
 Progressed from marketing intern to leading the Growth of Inspitrip, a Tech start-up.
 
 **UK Power Networks** (Sept 2014 – April 2016 )   
-*Commercial Analyst, & Commercial Graduate Leadership Scheme*  
+*Commercial Analyst, & Commercial Graduate Leadership Scheme (London)*  
+
 Project managed many multi-million pound projects consistently delivering at least 7% reduction in costs. This included analysing and drawing sound conclusions from large cost datasets. Took the initiative to develop processes which are still in place for over 5 multi-million contracts.
+
 
 ## Hobbies and Interests ##
 - **Cycling** I regularly cycle over 100 miles at weekends. Despite being knocked off by a motorbike, which resulted in 6 month in a back-brace, I have continued to cycle most days.
