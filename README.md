@@ -1,16 +1,5 @@
 ## Abi Travers
 
-"Never be average, stay curious, stay kind, never settle."
-My personal motto.
-
-Like Dr Seuss, I am creative and analytical, I think differently to solve any complex challenges and I have a deep compassion for people and drive to make the world a better place.
-
-I am a soon-to-be full stack developer looking to enhance the skills I developed at Makers Academy (a 12 week intensive development boot camp). I write about how I am learning and what I am struggling with [here](http://lebrunblack.com/), in the hope that this will help others. My initial interest is in security and software systems. I hope to bring a unique perspective to this area, whilst coaching others who are less experienced.
- 
-
-As someone who is intrinsically motivated, I am happiest when I am facing a challenge. I continuously take on tasks above my skill set which is why I am drawn to coding, where there is always more to learn. I found my interest for software and web development initially through my work as a growth hacker for Tech startups while living in Vietnam and Indonesia.
-
-
 
 ## Skills ##
 
