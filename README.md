@@ -69,9 +69,6 @@ I have a proven ability to effectively communicate with all-types of people:
 
 ### Calday Grange Grammar School  & West Kirby Grammar School (September 2000 - July 2007) ###
 
-Despite the fact the 11+ disadvantages dyslexics like myself, I managed, with 'only' 2 solid years of practice to pass.
-
-
 **A Levels**
 
 A, A, B (A at As Level) Including: Chemistry, History, Geography, Biology  
