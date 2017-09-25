@@ -58,13 +58,11 @@ I have a proven ability to effectively communicate with all-types of people:
 
 **International Development MA - Merit**
 
-- Focused on how to save the world.
 - Worked for the Ugandan government to create and deliver a self-lead project on tax reform (Distinction).
 - Economic modelling module (Distinction).
 
 **Geography BSc - 2:1**
-
-- Focused more on saving the planet rather than the people in it.  
+  
 - Environmental economic analysis (First).
 
 
@@ -116,6 +114,6 @@ Project managed many multi-million pound projects consistently delivering at lea
 - **Cycling** I regularly cycle over 100 miles at weekends. Despite being knocked off by a motorbike, which resulted in 6 month in a back-brace, I have continued to cycle most days.
 - **Yoga** I have trained in Vinyasa but am also a Yin enthusiast.
 - **Photography** At it's height my business [Instagram](https://www.instagram.com/lebrun_black/) account had over 14k real followers and was achieving an engagement rate of 25-30% which is 21-26% above industry standard. It was featured at the Official Vietnamese Tourism launch and in the Singaporian Magazine, Project Periscope.
-- **You will find me at the gym EVERY morning** before work … even when I was still recovering from my accident in a back brace in the sweltering humidity of Vietnam.
-- **Tech Start-ups** Attended and presented at conferences in Vietnam and Indonesia including the founder’s meetup in Vietnam. 
-- **Exploring** Visited over 60 countries and worked in Uganda, Vietnam and Indonesia. Not one for following the usual path, next on my list is visiting the cliff villages of Ethiopia.  
+- **You will find me at the gym EVERY morning** Spinning Monday- Friday.
+- **Tech Start-ups** Gave a number of presentations on growth hacking at tech meetups in Vietnam and Indonesia. Ran workshops on growth hacking in Indonesia while working for Growth Hacking Asia. 
+- **Exploring** Visited over 60 countries and worked in Uganda, Vietnam and Indonesia.   
