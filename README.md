@@ -1,5 +1,19 @@
 ## Abi Travers
 
+Only 7% of the population are [ENFP’s](https://www.16personalities.com/enfp-personality). Of those 7% only 0.5% chose to be software engineers.  I am one of those. If you want an energetic, enthusiastic and open-minded junior software developer, who is passionate about learning new skills and developing others then you have come to the right CV.
+
+I have experience working in an Agile tech team and implementing XP values into that team.    
+
+
+## PROJECTS
+| Project       | Summary       | Technologies  | Testing |
+| ------------- |---------------| --------------|---------|
+| 1. Rock Paper Scissors Part One ([Github](https://github.com/abitravers1989/rps-challenge)) | Three weeks into coding at Makers academy I attempted this challenge after having spent the week prior to it learning the technologies involved. Compare it to other projects to see how far I've come. |Ruby, Sinatra | RSpec |
+| 2. Rock Paper Scissors Part Two ([Github](https://github.com/abitravers1989/rps-challenge-improved-))| Two months in, I re-visited it to see how much I had improved. |Ruby, Sinatra | RSpec |
+| 3. Marryo-land ([Github](https://github.com/nick-otter/marryo-land))| A re-make of Super Mario Land. The similarity is uncanny.. | JavaScript, HTML5  | Jasmine, Mocha |
+| 4. Bank ([Github](https://github.com/abitravers1989/Bank_Tech_Test_Redesigned))| An object-orientated, test driven solution to the bank kata. Second attempt to track my improvement. | Ruby  | RSpec |
+| 5. Quark ([Github](https://github.com/FreddieCodes/PDAF-Text-editor)) | An iOS app to find the best meeting places halfway between friends. Final group project at Makers. | Electron, Javascript, Node JS, CSS, HTML | Spectron |
+
 
 ## Skills ##
 
@@ -15,7 +29,6 @@ Inspitrip:
 - To close my skill gap, I taught myself marketing then created the growth strategy (which was later used to secure the investment). Helped put together the marketing team & create business processes. I managed other team members. I did all of this with no prior experience.
 
 - Implemented lean start-up methodology; rapid experimentation followed by careful analysis to inform the next steps. This was used for both the product and growth marketing of it.
-
 
 
 
@@ -35,24 +48,32 @@ I have a proven ability to effectively communicate with all-types of people:
 
 ## Additional Skills & Qualifications ##
 
-- Photoshop and Illustrate (self-taught). Used to create adverts and landing pages for many clients while at Growth Hacking Asia and Lebrun Black consulting.
+- Photoshop and Illustrate (self-taught). Used to create adverts and landing pages for clients while at Growth Hacking Asia and Lebrun Black consulting.
 
 - Prince 2 Project Management – Practitioner Award.
 
-- Vietnamese – Basic.
+
 
 ## Education ##
 
 
 ### Makers Academy (July - October 2017) ###
 
-- Curiosity and passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, JavaScript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+Europes most selective software development bootcamp.
 
+Sixteen weeks to discover for yourself your most effective; problem solving, debugging, design and development techniques.
+
+Makers is an agile environment which aims to produce self-sufficient developers who can apply their techniques to any situation.
+
+Take a look at what I had to (say)[http://lebrunblack.com/] about some of this experience.
+
+- Version control with Git and Github
+- Pair programming
+- TDD, BDD, DRY, SOLID and MVC (and more acronyms)
+- Software Craftsmanship
+- Object­-oriented programming
+- Ruby, Rails, JavaScript, Node.js, Angular.js
+- Test Driven Development: Rspec, Capybara, Jasmine, Jest, Mocha, Zombie, Chai
 
 ### Manchester University (September 2008 - September 2012) ###
 
@@ -62,22 +83,8 @@ I have a proven ability to effectively communicate with all-types of people:
 - Economic modelling module (Distinction).
 
 **Geography BSc - 2:1**
-  
+
 - Environmental economic analysis (First).
-
-
-
-### Calday Grange Grammar School  & West Kirby Grammar School (September 2000 - July 2007) ###
-
-**A Levels**
-
-A, A, B (A at As Level) Including: Chemistry, History, Geography, Biology  
-
-**GCSEs**
-
-6 A*'s' Including: Mathematics, Physics, ICT, Chemistry
-
-4 A's
 
 
 ## Recent Experience ##
@@ -85,20 +92,19 @@ A, A, B (A at As Level) Including: Chemistry, History, Geography, Biology
 **LeBrun Black** (May 2017 - Present)    
 *Founder & Blog Editor*
 
-A/B tested and analysed everything down to single words for paid social media marketing and email marketing. This directly led to at least 3 contracts worth over £3K for a client.
-Write about learning software development on the website: Lebrunblack.com.
-
+Online marketing consultant. Implemented A/B testing and agile methodology for clients.
 
 **Growth Hacking Asia** (Jan - May 2017)   
 *Growth Marketing Consultant (Indonesia)*
 
-Consulted on and implemented the application of scientific methodology to growth marketing.
+Consulted on and implemented the application of lean and agile methodology to growth marketing. Experience with HTML, CSS and Wordpress. Working for and within tech teams.
 
 
 **Inspitrip & Inspilab** (May 2016 - Jan 2017)   
 *Growth Hacker (Vietnam)*  
 
 Progressed from marketing intern to leading the Growth of Inspitrip, a Tech start-up.
+Implimented XP values
 
 
 **UK Power Networks** (Sept 2014 – April 2016 )   
@@ -108,9 +114,6 @@ Project managed many multi-million pound projects consistently delivering at lea
 
 
 ## Hobbies and Interests ##
-- **Cycling** I regularly cycle over 100 miles at weekends. Despite being knocked off by a motorbike, which resulted in 6 month in a back-brace, I have continued to cycle most days.
-- **Yoga** I have trained in Vinyasa but am also a Yin enthusiast.
+- **Cycling** Passionate cycler and yoga-goer.
 - **Photography** At it's height my business [Instagram](https://www.instagram.com/lebrun_black/) account had over 14k real followers and was achieving an engagement rate of 25-30% which is 21-26% above industry standard. It was featured at the Official Vietnamese Tourism launch and in the Singaporian Magazine, Project Periscope.
-- **You will find me at the gym EVERY morning** Spinning Monday- Friday.
-- **Tech Start-ups** Gave a number of presentations on growth hacking at tech meetups in Vietnam and Indonesia. Ran workshops on growth hacking in Indonesia while working for Growth Hacking Asia. 
-- **Exploring** Visited over 60 countries and worked in Uganda, Vietnam and Indonesia.   
+- **Tech Start-ups** Attended and presented at conferences in Vietnam and Indonesia including the founder’s meetup in Vietnam. 
