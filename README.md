@@ -12,7 +12,7 @@ I have experience working in an Agile tech team and implementing XP values into 
 | 2. Rock Paper Scissors Part Two ([Github](https://github.com/abitravers1989/rps-challenge-improved-))| Two months in, I re-visited it to see how much I had improved. |Ruby, Sinatra | RSpec |
 | 3. Marryo-land ([Github](https://github.com/nick-otter/marryo-land))| A re-make of Super Mario Land. The similarity is uncanny.. | JavaScript, HTML5  | Jasmine, Mocha |
 | 4. Bank ([Github](https://github.com/abitravers1989/Bank_Tech_Test_Redesigned))| An object-orientated, test driven solution to the bank kata. Second attempt to track my improvement. | Ruby  | RSpec |
-| 5. Quark ([Github](https://github.com/FreddieCodes/PDAF-Text-editor)) | An iOS app to find the best meeting places halfway between friends. Final group project at Makers. | Electron, Javascript, Node JS, CSS, HTML | Spectron |
+| 5. Quark ([Github](https://github.com/FreddieCodes/PDAF-Text-editor)) | A text editor tailored for those who write code. Used as a desktop or web app it interacts with your local file system and automatically formats the code you are writting based on the language you are using. | Electron, Javascript, Node JS, CSS, HTML | Spectron |
 
 
 ## Skills ##
