@@ -1,6 +1,6 @@
 ## Abi Travers
 
-If you want an energetic, enthusiastic and open-minded junior software developer, who is passionate about learning new skills and developing others then you have come to the right CV. I am an intrinsically motivated and curiously observant[ENFP’s](https://www.16personalities.com/enfp-personality). This means I see things a bit differently to many other software developers. 
+If you want an energetic, enthusiastic and open-minded junior software developer, who is passionate about learning new skills and developing others then you have come to the right CV. I am an intrinsically motivated and curiously observant [ENFP](https://www.16personalities.com/enfp-personality). This means I see things a bit differently to many other software developers. 
 
 I have repeatedly demonstrated my ability to teach myself new skills and then excell in adapting these to any situation.  
 
