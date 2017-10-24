@@ -1,6 +1,8 @@
 ## Abi Travers
 
-Only 7% of the population are [ENFP’s](https://www.16personalities.com/enfp-personality). Of those 7% only 0.5% chose to be software engineers.  I am one of those. If you want an energetic, enthusiastic and open-minded junior software developer, who is passionate about learning new skills and developing others then you have come to the right CV.
+If you want an energetic, enthusiastic and open-minded junior software developer, who is passionate about learning new skills and developing others then you have come to the right CV. I am an intrinsically motivated and curiously observant[ENFP’s](https://www.16personalities.com/enfp-personality). This means I see things a bit differently to many other software developers. 
+
+I have repeatedly demonstrated my ability to teach myself new skills and then excell in adapting these to any situation.  
 
 I have experience working in an Agile tech team and implementing XP values into that team.    
 
