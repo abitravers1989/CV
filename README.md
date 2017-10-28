@@ -6,11 +6,13 @@ I am an intrinsically motivated and curiously observant [ENFP](https://www.16per
 
 I see things a bit differently to many other software developers thanks to my diverse expereince and desire to understand people from all walks of life. 
 
-I have repeatedly demonstrated my ability to teach myself new skills and then excell in adapting these to any situation. I have experience working in an Agile tech team and have been responsible for XP values.
+I have repeatedly demonstrated my ability to teach myself new skills and then excell in adapting these to any situation. 
 
 I turned a tech startup round when it was about to close down. I taught myself online growth marketing. I worked and adapted to totally different cultures. I achieved a masters in International Development where I helped change local government taxation in Uganda. I project managed multi-million pound catastrophe projects for London's ELectricity Distribution System. 
 
-I am happiest when up against a huge challenge. This is why I have chosen a career in software development with its continuous problems and infinate depth of learning. 
+I am happiest when up against a huge challenge. This is why I have chosen a career in software development with its continuous problems and infinate depth of learning.
+
+I have experience working in an Agile tech team and have been responsible for XP values.
 
 
 ## PROJECTS
