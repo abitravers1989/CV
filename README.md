@@ -55,7 +55,7 @@ I have a proven ability to effectively communicate with all-types of people:
 
 - I was the only English speaker and non-developer while leading the growth at a Vietnamese startup.
 
-- Wrote ad copy in both of the tech startups I worked at. Created the blog for Inspitrip where as well as writting my own post (one of which increased our website traffc from 10 per month to 10,000 in 2 days) I edited and quality-controlled all the other writters. 
+- Wrote ad copy in both of the tech startups I worked at. Created the blog for Inspitrip where as well as writing my own post (one of which increased our website traffic from 10 per month to 10,000 in 2 days) I edited and quality-controlled all the other writers. 
 
 
 ## Additional Skills & Qualifications ##
