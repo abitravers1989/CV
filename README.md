@@ -120,7 +120,7 @@ Implimented XP values
 **UK Power Networks** (Sept 2014 – April 2016 )   
 *Commercial Analyst, & Commercial Graduate Leadership Scheme (London)*  
 
-Project managed many multi-million pound projects consistently delivering at least 7% reduction in costs. This included analysing and drawing sound conclusions from large cost datasets. Took the initiative to develop processes which are still in place for over 5 multi-million contracts.
+Project managed many multi-million pound projects consistently delivering at least 7% reduction in costs. This included analysing and drawing sound conclusions from large cost datasets. Took the initiative to develop processes which are still in place for over 5 multi-million pound contracts.
 
 
 ## Hobbies and Interests ##
