@@ -1,18 +1,17 @@
 ## Abi Travers
 
-An empathetic, enthusiastic and open-minded junior software developer.  
+Junior software developer currently looking for a role in web development. 
 
-I am an intrinsically motivated and curiously observant [ENFP](https://www.16personalities.com/enfp-personality) with a passion for taking on seemingly unachievable challenges and developing others. 
+I am fascinated by new technologies and their influence on our lives. I want to craft products that harness the power of available data to make people's lives easier. I was first drawn to programming through my work as a growth hacker/marketer for agile tech startups. I wanted to dig deeper into the technologies I was using everyday to see how I could improve and build on them.  
 
-I see things a bit differently to many other software developers thanks to my diverse experience and desire to understand people from all walks of life. 
+I have a passion for taking on seemingly unachievable challenges and developing others. 
 
-I have repeatedly demonstrated my ability to teach myself new skills and then excel in adapting these to any situation. 
+I have repeatedly demonstrated my ability to teach myself new skills and then excel in adapting these to any situation:
 
 I turned a tech start-up round when it was about to close down. I taught myself online growth marketing. I worked and adapted to totally different cultures. I achieved a masters in International Development where I helped change local government taxation in Uganda. I project managed multi-million pound catastrophe projects for London's Electricity Distribution System. 
 
 I am happiest when up against a huge challenge. This is why I have chosen a career in software development with its continuous problems and infinite depth of learning.
 
-I have experience working in an Agile tech team and have been responsible for XP values.
 
 
 ## PROJECTS
