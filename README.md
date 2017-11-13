@@ -112,10 +112,13 @@ Consulted on and implemented the application of lean and agile methodology to gr
 Progressed from marketing intern to leading the Growth of Inspitrip, a Tech start-up.
 Implemented XP values.
 
-**UK Power Networks** (Sept 2014 – April 2016 )   
-*Commercial Analyst, & Commercial Graduate Leadership Scheme (London)*  
+**UK Power Networks** (Sept 2013 – April 2016 )   
+* Commercial Graduate Leadership Scheme (Commercial Analyst and Negotiator)(London) *  
 
 Project managed many multi-million pound projects consistently delivering at least 7% reduction in costs. This included analysing and drawing sound conclusions from large cost datasets. Took the initiative to develop processes which are still in place for over 5 multi-million pound contracts.
+
+**Energy Institute** (Sept 2012 – Sept 2013 )   
+* Technical Officer (London)*  
 
 
 ## Hobbies and Interests ##
