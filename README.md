@@ -8,7 +8,7 @@ I was first drawn to programming through my work as a growth hacker/marketer for
 
 I have repeatedly demonstrated my ability to teach myself new skills and then excel in adapting these to any situation:
 
-I turned a tech start-up round when it was about to close down. I taught myself online growth marketing. I worked and adapted to totally different cultures. I achieved a masters in International Development where I helped change local government taxation in Uganda. I project managed multi-million pound catastrophe projects for London's Electricity Distribution Network while working on their graduate leadership scheme. 
+I turned a tech start-up round when it was about to close down. I taught myself online growth marketing. I achieved a masters in International Development where I helped change local government taxation in Uganda. I project managed multi-million pound catastrophe projects for London's Electricity Distribution Network while working on their graduate leadership scheme. 
 
 I am happiest when up against a huge challenge and developing others. This is why I have chosen a career in software development with its continuous problems and infinite depth of learning.
 
