@@ -1,10 +1,10 @@
 ## Abi Travers
 
-Junior software developer looking for a role as a full-stack web developer. I am fascinated by technology and how it can improve human experiences and learning.
+Extremely hard-working, driven and passionate Junior full-stack developer currently looking for a role. I am fascinated by how technology can be used to improve human experiences and just how powerful data can be when harnessed correctly.
 
-I was drawn to software development while working on a commercial graduate scheme at UKPower Networks. I wanted to write software to make me more efficient and effective as a commercial dispute project manager removing human error when working with large data sets. I am fascinated by how powerful data can be used when harnessed correctly.
+I was drawn to software development while working on a commercial graduate scheme at UKPower Networks. I wanted to write software to make me more efficient and effective as a commercial dispute project manager, removing human error when working with large data sets. 
 
-I found a love for crafting technology products while working as a growth hacker (marketing) for tech start-ups. I want to explore the technologies I used to see how I could improve and develop them.
+I found my love for crafting technology products while working as a growth hacker (marketing) for tech start-ups. I want to explore the technologies I used to see how I could improve and develop them.
 
 I have repeatedly demonstrated my ability to teach myself new skills and then excel in adapting them to any situation. I taught myself online growth marketing which enabled me to turn around a failing tech start-up.
 
