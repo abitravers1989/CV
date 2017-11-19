@@ -25,9 +25,7 @@ I am happiest when up against big challenges and when developing others. This is
 
 ## Skills ##
 
-#### Fast Self-Taught Leaner Who Thrives Under Pressure ####
-
-A tenacious ability to teach myself new skills quickly and apply them while under pressure:
+#### Fast Self-Taught Learner Who Thrives Under Pressure ####
 
 Inspitrip:
 
