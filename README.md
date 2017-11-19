@@ -1,6 +1,6 @@
 ## Abi Travers
 
-Extremely hard-working, driven and passionate Junior full-stack developer currently looking for a role. I am fascinated by how technology can be used to improve human experiences and just how powerful data can be when harnessed correctly.
+Immensely driven, passionate and open Junior full-stack developer currently looking for a role. I am fascinated by how technology can be used to improve human experiences and just how powerful data can be when harnessed correctly.
 
 I was drawn to software development while working on a commercial graduate scheme at UKPower Networks. I wanted to write software to make me more efficient and effective as a commercial dispute project manager, removing human error when working with large data sets. 
 
