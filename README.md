@@ -29,9 +29,9 @@ I am happiest when up against big challenges and when developing others. This is
 
 Inspitrip:
 
-- Arrived in Vietnam with no contacts or experience in marketing. Secured a position within 2 weeks then progressed to leading the growth of the company.
+- Arrived in Vietnam with no contacts or experience in marketing. Secured a position and then progressed to playing a key role in leading the growth of the company.
 
-- Turned this start-up around from 0-2 customers per month to 5-7. This secured an investment of $100,000 for a 10% stake in the product.
+- Upon arrival this startup averaged 0-2 customers per month which increased to 5-7 per month on exit. This secured an investment of $100,000 for a 10% stake in the product.
 
 - To close my skill gap, I taught myself marketing then created the growth strategy (which was later used to secure the investment). Helped put together the marketing team & create business processes. I managed other team members. I did all of this with no prior experience.
 
@@ -42,9 +42,9 @@ Inspitrip:
 
 I have a proven ability to effectively communicate with all-types of people:
 
-- At the Energy Institute I worked directly with ex CEOs, CTOs and C-suit management of large oil and gas companies (including BP and Exxon) to assemble co-written papers to influence government policies.
+- At the Energy Institute I worked directly with ex CEOs, CTOs and C-suite management of large oil and gas companies (including BP and Exxon) to assemble co-written papers to influence government policies.
 
-- At UK Power Networks I worked with internal C-suite management and contracting companies (such as Morgan Sindall, ABA) to negotiate significant cost savings. For example, I reduced a £12m project to £7.8m.
+- At UK Power Networks I worked with internal C-suite management and contracting companies (such as Morgan Sindall, ABA) to negotiate significant cost savings, reducing project costs from £12m to £7.8m on one project.
 
 - My greatest achievement was persuading the CEO, despite a pay and hire freeze, to offer Master’s degree courses to other graduates to support their enhanced development.  
 
@@ -119,6 +119,6 @@ Project managed many multi-million pound projects consistently delivering at lea
 
 
 ## Hobbies and Interests ##
-- **Cycling** Passionate cycler and yoga-goer.
+- **Cycling and Yoga ** 
 - **Photography** At its height my business [Instagram](https://www.instagram.com/lebrun_black/) account had over 14k real followers and was achieving an engagement rate of 25-30% which is 21-26% above industry standard. It was featured at the Official Vietnamese Tourism launch and in the Singaporean Magazine, Project Periscope.
-- **Tech Start-ups** Attended and presented at conferences in Vietnam and Indonesia including the founder’s meetup in Vietnam. 
+- **Tech Conferences and Collaboration** Attended and presented at conferences in Vietnam and Indonesia including the founder’s meetup in Vietnam. 
