@@ -1,5 +1,7 @@
 ## Abi Travers
 
+#### "If you want to go fast, go alone. If you want to go far, go together"
+
 Immensely driven, passionate and open Junior full-stack developer currently looking for a role. I am fascinated by how technology can be used to improve human experiences and just how powerful data can be when harnessed correctly.
 
 I was drawn to software development while working on a commercial graduate scheme at UKPower Networks. I wanted to write software to make me more efficient and effective as a commercial dispute project manager, removing human error when working with large data sets. 
@@ -10,7 +12,6 @@ I have repeatedly demonstrated my ability to teach myself new skills and then ex
 
 I am happiest when up against big challenges and when developing others. This is why I have chosen a career in software development with its continuous problems and infinite depth of learning.
 
-'If you want to go fast, go alone; if you want to go far, go together'.
 
 
 ## PROJECTS
