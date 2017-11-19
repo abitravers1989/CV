@@ -10,6 +10,8 @@ I have repeatedly demonstrated my ability to teach myself new skills and then ex
 
 I am happiest when up against big challenges and when developing others. This is why I have chosen a career in software development with its continuous problems and infinite depth of learning.
 
+'If you want to go fast, go alone; if you want to go far, go together'.
+
 
 ## PROJECTS
 | Project       | Summary       | Technologies  | Testing |
