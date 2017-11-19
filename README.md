@@ -119,6 +119,6 @@ Project managed many multi-million pound projects consistently delivering at lea
 
 
 ## Hobbies and Interests ##
-- **Cycling and Yoga ** 
+- **Cycling and Yoga** 
 - **Photography** At its height my photography [Instagram](https://www.instagram.com/lebrun_black/) account had over 14k real followers and was achieving an engagement rate of 25-30% which is 21-26% above industry standard. It was well known within the community and I used it as a way to engage local photographers, tell their story, and start cultural discussions. It was featured at the Official Vietnamese Tourism launch.
 - **Tech Conferences and Collaboration** Attended and presented at conferences in Vietnam and Indonesia including the founder’s meetup in Vietnam. 
