@@ -2,15 +2,15 @@
 
 #### "If you want to go fast, go alone. If you want to go far, go together"
 
-Immensely driven, passionate and open Junior full-stack developer currently looking for a role. I am fascinated by how technology can be used to improve human experiences and just how powerful data can be when harnessed correctly.
+I am fascinated by how technology can be used to improve human experiences. I am Looking for a role as a junior full stack developer in a place which champions pair programming and quality coding practices.
 
-I was drawn to software development while working on a commercial graduate scheme at UKPower Networks. I wanted to write software to make me more efficient and effective as a commercial dispute project manager, removing human error when working with large data sets. 
+I was drawn to software development while working on a commercial graduate scheme at UKPower Networks. I wanted to write software to reduce the human error working with large data sets and make my team more efficent and effective. I found my love for crafting technology products while working as a growth hacker in agile tech start-ups. I wanted to work with the tech team to improve and develop the tools we had, together, instead of just passing on requests. I created my own website at weekends, sparking my passion for the web: http://lebrunblack.com/.
 
-I found my love for crafting technology products while working as a growth hacker (marketing) for tech start-ups. I want to explore the technologies I used to see how I could improve and develop them. I created my own website at weekends, sparking my passion for the web: http://lebrunblack.com/.
+The moment I started programming I feel in love with the contunious feedback, refelction and improvement cycle it allowed. The satisfactory feeling from a test passing or a working function. The moment I started pair programming I realize just how powerful having two connected minds working on a problem in sync was.  
 
-I have repeatedly demonstrated my ability to teach myself new skills and then excel in adapting them to any situation. I taught myself online growth marketing which enabled me to turn around a failing tech start-up.
+I have repeatedly demonstrated my ability to teach myself new skills and then excel in adapting them to any situation and in turn passing them on to others. From my early progression off the graduate scheme to commerical disputes to then leading this graduate team, to growth hacking then helping lead the direction of the team, including hiring new memebers. I like to share any new skill I learn so thrive when I am around other passionate people.
 
-I am happiest when up against big challenges and when developing others. This is why I have chosen a career in software development with its continuous problems and infinite depth of learning.
+I enjoy working in challenging environments and developing or learning from others. This is why I have chosen a career in software development with its continuous problems and infinite depth of learning.
 
 
 
@@ -120,5 +120,5 @@ Project managed many multi-million pound projects consistently delivering at lea
 
 ## Hobbies and Interests ##
 - **Cycling and Yoga ** 
-- **Photography** At its height my business [Instagram](https://www.instagram.com/lebrun_black/) account had over 14k real followers and was achieving an engagement rate of 25-30% which is 21-26% above industry standard. It was featured at the Official Vietnamese Tourism launch and in the Singaporean Magazine, Project Periscope.
+- **Photography** At its height my photography [Instagram](https://www.instagram.com/lebrun_black/) account had over 14k real followers and was achieving an engagement rate of 25-30% which is 21-26% above industry standard. It was well known within the community and I used it as a way to engage local photographers, tell their story, and start cultural discussions. It was featured at the Official Vietnamese Tourism launch.
 - **Tech Conferences and Collaboration** Attended and presented at conferences in Vietnam and Indonesia including the founder’s meetup in Vietnam. 
