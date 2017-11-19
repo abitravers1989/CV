@@ -4,7 +4,7 @@ Extremely hard-working, driven and passionate Junior full-stack developer curren
 
 I was drawn to software development while working on a commercial graduate scheme at UKPower Networks. I wanted to write software to make me more efficient and effective as a commercial dispute project manager, removing human error when working with large data sets. 
 
-I found my love for crafting technology products while working as a growth hacker (marketing) for tech start-ups. I want to explore the technologies I used to see how I could improve and develop them.
+I found my love for crafting technology products while working as a growth hacker (marketing) for tech start-ups. I want to explore the technologies I used to see how I could improve and develop them. I created my own website at weekends, sparking my passion for the web: http://lebrunblack.com/.
 
 I have repeatedly demonstrated my ability to teach myself new skills and then excel in adapting them to any situation. I taught myself online growth marketing which enabled me to turn around a failing tech start-up.
 
