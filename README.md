@@ -14,10 +14,9 @@ I am happiest when up against big challenges and when developing others. This is
 ## PROJECTS
 | Project       | Summary       | Technologies  | Testing |
 | ------------- |---------------| --------------|---------|
-| 1. Rock Paper Scissors: Part One ([Github](https://github.com/abitravers1989/rps-challenge)) | Three weeks into coding at Makers academy I attempted this challenge after having spent the week prior to it learning the technologies involved. Compared it to other projects to see how far I've come. |Ruby, Sinatra | RSpec |
-| 2. Rock Paper Scissors: Part Two ([Github](https://github.com/abitravers1989/rps-challenge-improved-))| Two months in, I re-visited it to see how much I had improved. |Ruby, Sinatra | RSpec |
+| 1. Rock Paper Scissors: Part One ([Github](https://github.com/abitravers1989/rps-challenge))  Part Two ([Github](https://github.com/abitravers1989/rps-challenge-improved-))| Three weeks into coding at Makers academy I attempted this challenge after having spent the week prior to it learning the technologies involved. Two months in, I re-visited it to see how much I had improved. |Ruby, Sinatra | RSpec |
 | 3. Marryo-land: ([Github](https://github.com/nick-otter/marryo-land))| A re-make of Super Mario Land. The similarity is uncanny. | JavaScript, HTML5  | Jasmine, Mocha |
-| 4. Bank: ([Github](https://github.com/abitravers1989/Bank_Tech_Test_Redesigned))| An object-orientated, test driven solution to the bank kata. Second attempt to track my improvement. | Ruby  | RSpec |
+| 4. Driftrock: ([Github](https://github.com/abitravers1989/driftrock))| Command line app which interacts with a public API and allows a user to query marketing data. COMPLETED POST MAKERS. | Ruby, JSON API | RSpec |
 | 5. Quark: ([Github](https://github.com/FreddieCodes/PDAF-Text-editor)) | A text editor tailored for those who write code. Used as a desktop or web app it interacts with your local file system and automatically formats the code you are writing based on the language you are using. | Electron, Javascript, Node JS, CSS, HTML | Spectron |
 
 
