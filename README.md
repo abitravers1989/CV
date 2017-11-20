@@ -59,7 +59,7 @@ Sixteen weeks to discover for yourself you’re most effective; problem solving,
  
 Makers is an agile environment which aims to produce self-sufficient developers who can apply their techniques to any situation.
  
-Take a look at what I had to (say)[http://lebrunblack.com/] about some of this experience.
+I am an external thinker, so talking or writing through things helps me understand: Take a look at some of the time i turned to writing online: [http://lebrunblack.com/].
  
 - Version control with Git and Github
 - Pair programming
@@ -85,7 +85,7 @@ Take a look at what I had to (say)[http://lebrunblack.com/] about some of this e
 **LeBrun Black** (May 2017 - Present)    
 *Founder & Blog Editor*
  
-Online marketing consultant. Implemented A/B testing and agile methodology for clients.
+Online marketing consultant. Implemented A/B testing and agile methodology for clients, ranging from large multinationals to personal consulting.
  
 **Growth Hacking Asia** (Jan - May 2017)   
 *Growth Marketing Consultant (Indonesia)*
