@@ -24,6 +24,8 @@ I enjoy working in challenging environments and developing or learning from othe
 #### Fast Self-Taught Learner Who Thrives Under Pressure ####
 Inspitrip:
 - Arrived in Vietnam with no contacts or experience in marketing. Secured a position and then progressed to playing a key role in leading the growth of the company.
+
+- Organised monthly talks where each member of the team could teach others something about what they were working on/learning.
  
 - Upon arrival this start-up averaged 0-2 customers per month which increased to 5-7 per month on exit. This secured an investment of $100,000 for a 10% stake in the product.
  
