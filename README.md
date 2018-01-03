@@ -1,8 +1,6 @@
 ## Abi Travers
 #### "If you want to go fast, go alone. If you want to go far, go together"
  
-I am fascinated by how technology can be used to improve human experiences. I am looking for a role as a junior full stack developer in a place which champions pair programming and quality coding practices.
- 
 I was drawn to software development while working on a commercial graduate scheme at UKPower Networks. I wanted to write software to reduce human error when working with large data sets and make my team more efficient and effective. I found my love for crafting technology products while working as a growth hacker in agile tech start-ups. I wanted to work together with the tech team to improve and develop the tools we had, instead of just passing on requests. I created my own website at weekends, sparking my passion for the web: http://lebrunblack.com/.
 
 The moment I started programming I feel in love with the continuous feedback, reflection and improvement cycle it allowed. I got such a satisfactory feeling from a test passing or a working function. The moment I started pair programming I realised just how powerful two connected minds working on a problem in sync was.  
