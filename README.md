@@ -1,5 +1,4 @@
 ## Abi Travers
-#### "If you want to go fast, go alone. If you want to go far, go together"
  
 I was drawn to software development while working on a commercial graduate scheme at UKPower Networks. I wanted to write software to reduce human error when working with large data sets and make my team more efficient and effective. I found my love for crafting technology products while working as a growth hacker in agile tech start-ups. I wanted to work together with the tech team to improve and develop the tools we had, instead of just passing on requests. I created my own website at weekends, sparking my passion for the web: http://lebrunblack.com/.
 
